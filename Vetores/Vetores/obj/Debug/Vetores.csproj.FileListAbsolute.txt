@@ -1,0 +1,6 @@
+C:\Users\TI\Desktop\Vetores\Vetores\bin\Debug\Vetores.exe.config
+C:\Users\TI\Desktop\Vetores\Vetores\bin\Debug\Vetores.exe
+C:\Users\TI\Desktop\Vetores\Vetores\bin\Debug\Vetores.pdb
+C:\Users\TI\Desktop\Vetores\Vetores\obj\Debug\Vetores.csprojResolveAssemblyReference.cache
+C:\Users\TI\Desktop\Vetores\Vetores\obj\Debug\Vetores.exe
+C:\Users\TI\Desktop\Vetores\Vetores\obj\Debug\Vetores.pdb

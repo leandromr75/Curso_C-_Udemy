@@ -1,0 +1,13 @@
+C:\Users\TI\Desktop\Teste\Teste\bin\Debug\netcoreapp3.1\Teste.exe
+C:\Users\TI\Desktop\Teste\Teste\bin\Debug\netcoreapp3.1\Teste.deps.json
+C:\Users\TI\Desktop\Teste\Teste\bin\Debug\netcoreapp3.1\Teste.runtimeconfig.json
+C:\Users\TI\Desktop\Teste\Teste\bin\Debug\netcoreapp3.1\Teste.runtimeconfig.dev.json
+C:\Users\TI\Desktop\Teste\Teste\bin\Debug\netcoreapp3.1\Teste.dll
+C:\Users\TI\Desktop\Teste\Teste\bin\Debug\netcoreapp3.1\Teste.pdb
+C:\Users\TI\Desktop\Teste\Teste\obj\Debug\netcoreapp3.1\Teste.csprojAssemblyReference.cache
+C:\Users\TI\Desktop\Teste\Teste\obj\Debug\netcoreapp3.1\Teste.csproj.CoreCompileInputs.cache
+C:\Users\TI\Desktop\Teste\Teste\obj\Debug\netcoreapp3.1\Teste.AssemblyInfoInputs.cache
+C:\Users\TI\Desktop\Teste\Teste\obj\Debug\netcoreapp3.1\Teste.AssemblyInfo.cs
+C:\Users\TI\Desktop\Teste\Teste\obj\Debug\netcoreapp3.1\Teste.dll
+C:\Users\TI\Desktop\Teste\Teste\obj\Debug\netcoreapp3.1\Teste.pdb
+C:\Users\TI\Desktop\Teste\Teste\obj\Debug\netcoreapp3.1\Teste.genruntimeconfig.cache

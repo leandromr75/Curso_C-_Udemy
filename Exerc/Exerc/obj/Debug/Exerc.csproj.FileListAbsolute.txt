@@ -1,0 +1,6 @@
+C:\Users\TI\Desktop\Exerc\Exerc\bin\Debug\Exerc.exe.config
+C:\Users\TI\Desktop\Exerc\Exerc\bin\Debug\Exerc.exe
+C:\Users\TI\Desktop\Exerc\Exerc\bin\Debug\Exerc.pdb
+C:\Users\TI\Desktop\Exerc\Exerc\obj\Debug\Exerc.csprojResolveAssemblyReference.cache
+C:\Users\TI\Desktop\Exerc\Exerc\obj\Debug\Exerc.exe
+C:\Users\TI\Desktop\Exerc\Exerc\obj\Debug\Exerc.pdb

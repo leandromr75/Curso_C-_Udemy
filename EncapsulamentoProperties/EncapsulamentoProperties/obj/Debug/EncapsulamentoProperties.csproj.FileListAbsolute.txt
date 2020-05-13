@@ -1,0 +1,6 @@
+C:\Users\TI\Desktop\EncapsulamentoProperties\EncapsulamentoProperties\bin\Debug\EncapsulamentoProperties.exe.config
+C:\Users\TI\Desktop\EncapsulamentoProperties\EncapsulamentoProperties\bin\Debug\EncapsulamentoProperties.exe
+C:\Users\TI\Desktop\EncapsulamentoProperties\EncapsulamentoProperties\bin\Debug\EncapsulamentoProperties.pdb
+C:\Users\TI\Desktop\EncapsulamentoProperties\EncapsulamentoProperties\obj\Debug\EncapsulamentoProperties.csprojResolveAssemblyReference.cache
+C:\Users\TI\Desktop\EncapsulamentoProperties\EncapsulamentoProperties\obj\Debug\EncapsulamentoProperties.exe
+C:\Users\TI\Desktop\EncapsulamentoProperties\EncapsulamentoProperties\obj\Debug\EncapsulamentoProperties.pdb

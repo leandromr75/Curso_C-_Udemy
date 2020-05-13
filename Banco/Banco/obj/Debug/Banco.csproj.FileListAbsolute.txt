@@ -1,0 +1,6 @@
+C:\Users\TI\Desktop\Banco\Banco\bin\Debug\Banco.exe.config
+C:\Users\TI\Desktop\Banco\Banco\bin\Debug\Banco.exe
+C:\Users\TI\Desktop\Banco\Banco\bin\Debug\Banco.pdb
+C:\Users\TI\Desktop\Banco\Banco\obj\Debug\Banco.csprojResolveAssemblyReference.cache
+C:\Users\TI\Desktop\Banco\Banco\obj\Debug\Banco.exe
+C:\Users\TI\Desktop\Banco\Banco\obj\Debug\Banco.pdb

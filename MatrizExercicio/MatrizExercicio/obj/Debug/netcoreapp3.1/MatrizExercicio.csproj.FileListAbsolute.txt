@@ -1,0 +1,12 @@
+C:\Users\TI\Desktop\MatrizExercicio\MatrizExercicio\bin\Debug\netcoreapp3.1\MatrizExercicio.exe
+C:\Users\TI\Desktop\MatrizExercicio\MatrizExercicio\bin\Debug\netcoreapp3.1\MatrizExercicio.deps.json
+C:\Users\TI\Desktop\MatrizExercicio\MatrizExercicio\bin\Debug\netcoreapp3.1\MatrizExercicio.runtimeconfig.json
+C:\Users\TI\Desktop\MatrizExercicio\MatrizExercicio\bin\Debug\netcoreapp3.1\MatrizExercicio.runtimeconfig.dev.json
+C:\Users\TI\Desktop\MatrizExercicio\MatrizExercicio\bin\Debug\netcoreapp3.1\MatrizExercicio.dll
+C:\Users\TI\Desktop\MatrizExercicio\MatrizExercicio\bin\Debug\netcoreapp3.1\MatrizExercicio.pdb
+C:\Users\TI\Desktop\MatrizExercicio\MatrizExercicio\obj\Debug\netcoreapp3.1\MatrizExercicio.csproj.CoreCompileInputs.cache
+C:\Users\TI\Desktop\MatrizExercicio\MatrizExercicio\obj\Debug\netcoreapp3.1\MatrizExercicio.AssemblyInfoInputs.cache
+C:\Users\TI\Desktop\MatrizExercicio\MatrizExercicio\obj\Debug\netcoreapp3.1\MatrizExercicio.AssemblyInfo.cs
+C:\Users\TI\Desktop\MatrizExercicio\MatrizExercicio\obj\Debug\netcoreapp3.1\MatrizExercicio.dll
+C:\Users\TI\Desktop\MatrizExercicio\MatrizExercicio\obj\Debug\netcoreapp3.1\MatrizExercicio.pdb
+C:\Users\TI\Desktop\MatrizExercicio\MatrizExercicio\obj\Debug\netcoreapp3.1\MatrizExercicio.genruntimeconfig.cache

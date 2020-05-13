@@ -1,0 +1,13 @@
+C:\Users\TI\Desktop\ListaExemplo\ListaExemplo\bin\Debug\netcoreapp3.1\ListaExemplo.exe
+C:\Users\TI\Desktop\ListaExemplo\ListaExemplo\obj\Debug\netcoreapp3.1\ListaExemplo.csproj.CoreCompileInputs.cache
+C:\Users\TI\Desktop\ListaExemplo\ListaExemplo\obj\Debug\netcoreapp3.1\ListaExemplo.AssemblyInfoInputs.cache
+C:\Users\TI\Desktop\ListaExemplo\ListaExemplo\obj\Debug\netcoreapp3.1\ListaExemplo.AssemblyInfo.cs
+C:\Users\TI\Desktop\ListaExemplo\ListaExemplo\obj\Debug\netcoreapp3.1\ListaExemplo.dll
+C:\Users\TI\Desktop\ListaExemplo\ListaExemplo\obj\Debug\netcoreapp3.1\ListaExemplo.pdb
+C:\Users\TI\Desktop\ListaExemplo\ListaExemplo\bin\Debug\netcoreapp3.1\ListaExemplo.deps.json
+C:\Users\TI\Desktop\ListaExemplo\ListaExemplo\bin\Debug\netcoreapp3.1\ListaExemplo.runtimeconfig.json
+C:\Users\TI\Desktop\ListaExemplo\ListaExemplo\bin\Debug\netcoreapp3.1\ListaExemplo.runtimeconfig.dev.json
+C:\Users\TI\Desktop\ListaExemplo\ListaExemplo\bin\Debug\netcoreapp3.1\ListaExemplo.dll
+C:\Users\TI\Desktop\ListaExemplo\ListaExemplo\bin\Debug\netcoreapp3.1\ListaExemplo.pdb
+C:\Users\TI\Desktop\ListaExemplo\ListaExemplo\obj\Debug\netcoreapp3.1\ListaExemplo.csprojAssemblyReference.cache
+C:\Users\TI\Desktop\ListaExemplo\ListaExemplo\obj\Debug\netcoreapp3.1\ListaExemplo.genruntimeconfig.cache

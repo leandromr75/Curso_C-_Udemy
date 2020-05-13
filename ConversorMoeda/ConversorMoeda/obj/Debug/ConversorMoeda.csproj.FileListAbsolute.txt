@@ -1,0 +1,6 @@
+C:\Users\TI\Desktop\ConversorMoeda\ConversorMoeda\bin\Debug\ConversorMoeda.exe.config
+C:\Users\TI\Desktop\ConversorMoeda\ConversorMoeda\bin\Debug\ConversorMoeda.exe
+C:\Users\TI\Desktop\ConversorMoeda\ConversorMoeda\bin\Debug\ConversorMoeda.pdb
+C:\Users\TI\Desktop\ConversorMoeda\ConversorMoeda\obj\Debug\ConversorMoeda.csprojResolveAssemblyReference.cache
+C:\Users\TI\Desktop\ConversorMoeda\ConversorMoeda\obj\Debug\ConversorMoeda.exe
+C:\Users\TI\Desktop\ConversorMoeda\ConversorMoeda\obj\Debug\ConversorMoeda.pdb
