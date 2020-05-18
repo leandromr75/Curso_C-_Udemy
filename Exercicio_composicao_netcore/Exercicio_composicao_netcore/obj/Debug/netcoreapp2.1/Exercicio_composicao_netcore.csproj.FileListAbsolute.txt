@@ -1,0 +1,12 @@
+C:\Users\TI\Desktop\Curso_C#\Curso_C-_Udemy\Exercicio_composicao_netcore\Exercicio_composicao_netcore\bin\Debug\netcoreapp2.1\Exercicio_composicao_netcore.deps.json
+C:\Users\TI\Desktop\Curso_C#\Curso_C-_Udemy\Exercicio_composicao_netcore\Exercicio_composicao_netcore\bin\Debug\netcoreapp2.1\Exercicio_composicao_netcore.runtimeconfig.json
+C:\Users\TI\Desktop\Curso_C#\Curso_C-_Udemy\Exercicio_composicao_netcore\Exercicio_composicao_netcore\bin\Debug\netcoreapp2.1\Exercicio_composicao_netcore.runtimeconfig.dev.json
+C:\Users\TI\Desktop\Curso_C#\Curso_C-_Udemy\Exercicio_composicao_netcore\Exercicio_composicao_netcore\bin\Debug\netcoreapp2.1\Exercicio_composicao_netcore.dll
+C:\Users\TI\Desktop\Curso_C#\Curso_C-_Udemy\Exercicio_composicao_netcore\Exercicio_composicao_netcore\bin\Debug\netcoreapp2.1\Exercicio_composicao_netcore.pdb
+C:\Users\TI\Desktop\Curso_C#\Curso_C-_Udemy\Exercicio_composicao_netcore\Exercicio_composicao_netcore\obj\Debug\netcoreapp2.1\Exercicio_composicao_netcore.csprojAssemblyReference.cache
+C:\Users\TI\Desktop\Curso_C#\Curso_C-_Udemy\Exercicio_composicao_netcore\Exercicio_composicao_netcore\obj\Debug\netcoreapp2.1\Exercicio_composicao_netcore.csproj.CoreCompileInputs.cache
+C:\Users\TI\Desktop\Curso_C#\Curso_C-_Udemy\Exercicio_composicao_netcore\Exercicio_composicao_netcore\obj\Debug\netcoreapp2.1\Exercicio_composicao_netcore.AssemblyInfoInputs.cache
+C:\Users\TI\Desktop\Curso_C#\Curso_C-_Udemy\Exercicio_composicao_netcore\Exercicio_composicao_netcore\obj\Debug\netcoreapp2.1\Exercicio_composicao_netcore.AssemblyInfo.cs
+C:\Users\TI\Desktop\Curso_C#\Curso_C-_Udemy\Exercicio_composicao_netcore\Exercicio_composicao_netcore\obj\Debug\netcoreapp2.1\Exercicio_composicao_netcore.dll
+C:\Users\TI\Desktop\Curso_C#\Curso_C-_Udemy\Exercicio_composicao_netcore\Exercicio_composicao_netcore\obj\Debug\netcoreapp2.1\Exercicio_composicao_netcore.pdb
+C:\Users\TI\Desktop\Curso_C#\Curso_C-_Udemy\Exercicio_composicao_netcore\Exercicio_composicao_netcore\obj\Debug\netcoreapp2.1\Exercicio_composicao_netcore.genruntimeconfig.cache

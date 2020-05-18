@@ -1,0 +1,2 @@
+C:\Users\TI\Desktop\Curso_C#\Curso_C-_Udemy\Exercício1_Composição_Objetos\Exercício1_Composição_Objetos\obj\Debug\Exercício1_Composição_Objetos.csprojAssemblyReference.cache
+C:\Users\TI\Desktop\Curso_C#\Curso_C-_Udemy\Exercício1_Composição_Objetos\Exercício1_Composição_Objetos\obj\Debug\Exercício1_Composição_Objetos.csproj.CoreCompileInputs.cache

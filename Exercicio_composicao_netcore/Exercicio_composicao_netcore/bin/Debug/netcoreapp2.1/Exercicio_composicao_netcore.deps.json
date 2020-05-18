@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.1": {
+      "Exercicio_composicao_netcore/1.0.0": {
+        "runtime": {
+          "Exercicio_composicao_netcore.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Exercicio_composicao_netcore/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
