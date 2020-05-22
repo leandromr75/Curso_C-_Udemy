@@ -1,0 +1,13 @@
+C:\Users\TI\Desktop\Curso_C#\Curso_C-_Udemy\Fixação_Polimorfismo\Fixação_Polimorfismo\bin\Debug\netcoreapp3.1\Fixação_Polimorfismo.exe
+C:\Users\TI\Desktop\Curso_C#\Curso_C-_Udemy\Fixação_Polimorfismo\Fixação_Polimorfismo\bin\Debug\netcoreapp3.1\Fixação_Polimorfismo.deps.json
+C:\Users\TI\Desktop\Curso_C#\Curso_C-_Udemy\Fixação_Polimorfismo\Fixação_Polimorfismo\bin\Debug\netcoreapp3.1\Fixação_Polimorfismo.runtimeconfig.json
+C:\Users\TI\Desktop\Curso_C#\Curso_C-_Udemy\Fixação_Polimorfismo\Fixação_Polimorfismo\bin\Debug\netcoreapp3.1\Fixação_Polimorfismo.runtimeconfig.dev.json
+C:\Users\TI\Desktop\Curso_C#\Curso_C-_Udemy\Fixação_Polimorfismo\Fixação_Polimorfismo\bin\Debug\netcoreapp3.1\Fixação_Polimorfismo.dll
+C:\Users\TI\Desktop\Curso_C#\Curso_C-_Udemy\Fixação_Polimorfismo\Fixação_Polimorfismo\bin\Debug\netcoreapp3.1\Fixação_Polimorfismo.pdb
+C:\Users\TI\Desktop\Curso_C#\Curso_C-_Udemy\Fixação_Polimorfismo\Fixação_Polimorfismo\obj\Debug\netcoreapp3.1\Fixação_Polimorfismo.csprojAssemblyReference.cache
+C:\Users\TI\Desktop\Curso_C#\Curso_C-_Udemy\Fixação_Polimorfismo\Fixação_Polimorfismo\obj\Debug\netcoreapp3.1\Fixação_Polimorfismo.csproj.CoreCompileInputs.cache
+C:\Users\TI\Desktop\Curso_C#\Curso_C-_Udemy\Fixação_Polimorfismo\Fixação_Polimorfismo\obj\Debug\netcoreapp3.1\Fixação_Polimorfismo.AssemblyInfoInputs.cache
+C:\Users\TI\Desktop\Curso_C#\Curso_C-_Udemy\Fixação_Polimorfismo\Fixação_Polimorfismo\obj\Debug\netcoreapp3.1\Fixação_Polimorfismo.AssemblyInfo.cs
+C:\Users\TI\Desktop\Curso_C#\Curso_C-_Udemy\Fixação_Polimorfismo\Fixação_Polimorfismo\obj\Debug\netcoreapp3.1\Fixação_Polimorfismo.dll
+C:\Users\TI\Desktop\Curso_C#\Curso_C-_Udemy\Fixação_Polimorfismo\Fixação_Polimorfismo\obj\Debug\netcoreapp3.1\Fixação_Polimorfismo.pdb
+C:\Users\TI\Desktop\Curso_C#\Curso_C-_Udemy\Fixação_Polimorfismo\Fixação_Polimorfismo\obj\Debug\netcoreapp3.1\Fixação_Polimorfismo.genruntimeconfig.cache

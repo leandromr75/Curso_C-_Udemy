@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Fixação_Polimorfismo/1.0.0": {
+        "runtime": {
+          "Fixação_Polimorfismo.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Fixação_Polimorfismo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
