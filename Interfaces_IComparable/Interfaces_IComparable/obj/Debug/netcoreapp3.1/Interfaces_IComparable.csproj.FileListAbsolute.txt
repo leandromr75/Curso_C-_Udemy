@@ -1,0 +1,13 @@
+C:\Users\Leandro\Desktop\Cursos Udemy\Curso_C-_Udemy\Interfaces_IComparable\Interfaces_IComparable\bin\Debug\netcoreapp3.1\Interfaces_IComparable.exe
+C:\Users\Leandro\Desktop\Cursos Udemy\Curso_C-_Udemy\Interfaces_IComparable\Interfaces_IComparable\bin\Debug\netcoreapp3.1\Interfaces_IComparable.deps.json
+C:\Users\Leandro\Desktop\Cursos Udemy\Curso_C-_Udemy\Interfaces_IComparable\Interfaces_IComparable\bin\Debug\netcoreapp3.1\Interfaces_IComparable.runtimeconfig.json
+C:\Users\Leandro\Desktop\Cursos Udemy\Curso_C-_Udemy\Interfaces_IComparable\Interfaces_IComparable\bin\Debug\netcoreapp3.1\Interfaces_IComparable.runtimeconfig.dev.json
+C:\Users\Leandro\Desktop\Cursos Udemy\Curso_C-_Udemy\Interfaces_IComparable\Interfaces_IComparable\bin\Debug\netcoreapp3.1\Interfaces_IComparable.dll
+C:\Users\Leandro\Desktop\Cursos Udemy\Curso_C-_Udemy\Interfaces_IComparable\Interfaces_IComparable\bin\Debug\netcoreapp3.1\Interfaces_IComparable.pdb
+C:\Users\Leandro\Desktop\Cursos Udemy\Curso_C-_Udemy\Interfaces_IComparable\Interfaces_IComparable\obj\Debug\netcoreapp3.1\Interfaces_IComparable.csprojAssemblyReference.cache
+C:\Users\Leandro\Desktop\Cursos Udemy\Curso_C-_Udemy\Interfaces_IComparable\Interfaces_IComparable\obj\Debug\netcoreapp3.1\Interfaces_IComparable.AssemblyInfoInputs.cache
+C:\Users\Leandro\Desktop\Cursos Udemy\Curso_C-_Udemy\Interfaces_IComparable\Interfaces_IComparable\obj\Debug\netcoreapp3.1\Interfaces_IComparable.AssemblyInfo.cs
+C:\Users\Leandro\Desktop\Cursos Udemy\Curso_C-_Udemy\Interfaces_IComparable\Interfaces_IComparable\obj\Debug\netcoreapp3.1\Interfaces_IComparable.csproj.CoreCompileInputs.cache
+C:\Users\Leandro\Desktop\Cursos Udemy\Curso_C-_Udemy\Interfaces_IComparable\Interfaces_IComparable\obj\Debug\netcoreapp3.1\Interfaces_IComparable.dll
+C:\Users\Leandro\Desktop\Cursos Udemy\Curso_C-_Udemy\Interfaces_IComparable\Interfaces_IComparable\obj\Debug\netcoreapp3.1\Interfaces_IComparable.pdb
+C:\Users\Leandro\Desktop\Cursos Udemy\Curso_C-_Udemy\Interfaces_IComparable\Interfaces_IComparable\obj\Debug\netcoreapp3.1\Interfaces_IComparable.genruntimeconfig.cache
