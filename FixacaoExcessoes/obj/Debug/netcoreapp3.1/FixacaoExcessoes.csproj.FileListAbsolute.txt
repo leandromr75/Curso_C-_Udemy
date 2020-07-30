@@ -1,0 +1,13 @@
+C:\Users\TI\Desktop\VS Code P\FixacaoExcessoes\bin\Debug\netcoreapp3.1\FixacaoExcessoes.exe
+C:\Users\TI\Desktop\VS Code P\FixacaoExcessoes\bin\Debug\netcoreapp3.1\FixacaoExcessoes.deps.json
+C:\Users\TI\Desktop\VS Code P\FixacaoExcessoes\bin\Debug\netcoreapp3.1\FixacaoExcessoes.runtimeconfig.json
+C:\Users\TI\Desktop\VS Code P\FixacaoExcessoes\bin\Debug\netcoreapp3.1\FixacaoExcessoes.runtimeconfig.dev.json
+C:\Users\TI\Desktop\VS Code P\FixacaoExcessoes\bin\Debug\netcoreapp3.1\FixacaoExcessoes.dll
+C:\Users\TI\Desktop\VS Code P\FixacaoExcessoes\bin\Debug\netcoreapp3.1\FixacaoExcessoes.pdb
+C:\Users\TI\Desktop\VS Code P\FixacaoExcessoes\obj\Debug\netcoreapp3.1\FixacaoExcessoes.csprojAssemblyReference.cache
+C:\Users\TI\Desktop\VS Code P\FixacaoExcessoes\obj\Debug\netcoreapp3.1\FixacaoExcessoes.csproj.CoreCompileInputs.cache
+C:\Users\TI\Desktop\VS Code P\FixacaoExcessoes\obj\Debug\netcoreapp3.1\FixacaoExcessoes.AssemblyInfoInputs.cache
+C:\Users\TI\Desktop\VS Code P\FixacaoExcessoes\obj\Debug\netcoreapp3.1\FixacaoExcessoes.AssemblyInfo.cs
+C:\Users\TI\Desktop\VS Code P\FixacaoExcessoes\obj\Debug\netcoreapp3.1\FixacaoExcessoes.dll
+C:\Users\TI\Desktop\VS Code P\FixacaoExcessoes\obj\Debug\netcoreapp3.1\FixacaoExcessoes.pdb
+C:\Users\TI\Desktop\VS Code P\FixacaoExcessoes\obj\Debug\netcoreapp3.1\FixacaoExcessoes.genruntimeconfig.cache

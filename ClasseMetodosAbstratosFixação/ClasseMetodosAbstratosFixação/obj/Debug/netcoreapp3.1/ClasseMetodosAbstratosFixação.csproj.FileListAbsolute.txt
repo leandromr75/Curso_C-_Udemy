@@ -1,0 +1,13 @@
+C:\Users\TI\Desktop\Curso_C#\Curso_C-_Udemy\ClasseMetodosAbstratosFixação\ClasseMetodosAbstratosFixação\bin\Debug\netcoreapp3.1\ClasseMetodosAbstratosFixação.exe
+C:\Users\TI\Desktop\Curso_C#\Curso_C-_Udemy\ClasseMetodosAbstratosFixação\ClasseMetodosAbstratosFixação\obj\Debug\netcoreapp3.1\ClasseMetodosAbstratosFixação.csproj.CoreCompileInputs.cache
+C:\Users\TI\Desktop\Curso_C#\Curso_C-_Udemy\ClasseMetodosAbstratosFixação\ClasseMetodosAbstratosFixação\obj\Debug\netcoreapp3.1\ClasseMetodosAbstratosFixação.AssemblyInfoInputs.cache
+C:\Users\TI\Desktop\Curso_C#\Curso_C-_Udemy\ClasseMetodosAbstratosFixação\ClasseMetodosAbstratosFixação\obj\Debug\netcoreapp3.1\ClasseMetodosAbstratosFixação.AssemblyInfo.cs
+C:\Users\TI\Desktop\Curso_C#\Curso_C-_Udemy\ClasseMetodosAbstratosFixação\ClasseMetodosAbstratosFixação\obj\Debug\netcoreapp3.1\ClasseMetodosAbstratosFixação.dll
+C:\Users\TI\Desktop\Curso_C#\Curso_C-_Udemy\ClasseMetodosAbstratosFixação\ClasseMetodosAbstratosFixação\obj\Debug\netcoreapp3.1\ClasseMetodosAbstratosFixação.pdb
+C:\Users\TI\Desktop\Curso_C#\Curso_C-_Udemy\ClasseMetodosAbstratosFixação\ClasseMetodosAbstratosFixação\bin\Debug\netcoreapp3.1\ClasseMetodosAbstratosFixação.deps.json
+C:\Users\TI\Desktop\Curso_C#\Curso_C-_Udemy\ClasseMetodosAbstratosFixação\ClasseMetodosAbstratosFixação\bin\Debug\netcoreapp3.1\ClasseMetodosAbstratosFixação.runtimeconfig.json
+C:\Users\TI\Desktop\Curso_C#\Curso_C-_Udemy\ClasseMetodosAbstratosFixação\ClasseMetodosAbstratosFixação\bin\Debug\netcoreapp3.1\ClasseMetodosAbstratosFixação.runtimeconfig.dev.json
+C:\Users\TI\Desktop\Curso_C#\Curso_C-_Udemy\ClasseMetodosAbstratosFixação\ClasseMetodosAbstratosFixação\bin\Debug\netcoreapp3.1\ClasseMetodosAbstratosFixação.dll
+C:\Users\TI\Desktop\Curso_C#\Curso_C-_Udemy\ClasseMetodosAbstratosFixação\ClasseMetodosAbstratosFixação\bin\Debug\netcoreapp3.1\ClasseMetodosAbstratosFixação.pdb
+C:\Users\TI\Desktop\Curso_C#\Curso_C-_Udemy\ClasseMetodosAbstratosFixação\ClasseMetodosAbstratosFixação\obj\Debug\netcoreapp3.1\ClasseMetodosAbstratosFixação.csprojAssemblyReference.cache
+C:\Users\TI\Desktop\Curso_C#\Curso_C-_Udemy\ClasseMetodosAbstratosFixação\ClasseMetodosAbstratosFixação\obj\Debug\netcoreapp3.1\ClasseMetodosAbstratosFixação.genruntimeconfig.cache

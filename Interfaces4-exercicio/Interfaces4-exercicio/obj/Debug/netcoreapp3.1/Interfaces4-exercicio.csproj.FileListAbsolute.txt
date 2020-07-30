@@ -1,0 +1,13 @@
+C:\Users\TI\Desktop\Curso_C#\Curso_C-_Udemy\Interfaces4-exercicio\Interfaces4-exercicio\bin\Debug\netcoreapp3.1\Interfaces4-exercicio.exe
+C:\Users\TI\Desktop\Curso_C#\Curso_C-_Udemy\Interfaces4-exercicio\Interfaces4-exercicio\bin\Debug\netcoreapp3.1\Interfaces4-exercicio.deps.json
+C:\Users\TI\Desktop\Curso_C#\Curso_C-_Udemy\Interfaces4-exercicio\Interfaces4-exercicio\bin\Debug\netcoreapp3.1\Interfaces4-exercicio.runtimeconfig.json
+C:\Users\TI\Desktop\Curso_C#\Curso_C-_Udemy\Interfaces4-exercicio\Interfaces4-exercicio\bin\Debug\netcoreapp3.1\Interfaces4-exercicio.runtimeconfig.dev.json
+C:\Users\TI\Desktop\Curso_C#\Curso_C-_Udemy\Interfaces4-exercicio\Interfaces4-exercicio\bin\Debug\netcoreapp3.1\Interfaces4-exercicio.dll
+C:\Users\TI\Desktop\Curso_C#\Curso_C-_Udemy\Interfaces4-exercicio\Interfaces4-exercicio\bin\Debug\netcoreapp3.1\Interfaces4-exercicio.pdb
+C:\Users\TI\Desktop\Curso_C#\Curso_C-_Udemy\Interfaces4-exercicio\Interfaces4-exercicio\obj\Debug\netcoreapp3.1\Interfaces4-exercicio.csprojAssemblyReference.cache
+C:\Users\TI\Desktop\Curso_C#\Curso_C-_Udemy\Interfaces4-exercicio\Interfaces4-exercicio\obj\Debug\netcoreapp3.1\Interfaces4-exercicio.csproj.CoreCompileInputs.cache
+C:\Users\TI\Desktop\Curso_C#\Curso_C-_Udemy\Interfaces4-exercicio\Interfaces4-exercicio\obj\Debug\netcoreapp3.1\Interfaces4-exercicio.AssemblyInfoInputs.cache
+C:\Users\TI\Desktop\Curso_C#\Curso_C-_Udemy\Interfaces4-exercicio\Interfaces4-exercicio\obj\Debug\netcoreapp3.1\Interfaces4-exercicio.AssemblyInfo.cs
+C:\Users\TI\Desktop\Curso_C#\Curso_C-_Udemy\Interfaces4-exercicio\Interfaces4-exercicio\obj\Debug\netcoreapp3.1\Interfaces4-exercicio.dll
+C:\Users\TI\Desktop\Curso_C#\Curso_C-_Udemy\Interfaces4-exercicio\Interfaces4-exercicio\obj\Debug\netcoreapp3.1\Interfaces4-exercicio.pdb
+C:\Users\TI\Desktop\Curso_C#\Curso_C-_Udemy\Interfaces4-exercicio\Interfaces4-exercicio\obj\Debug\netcoreapp3.1\Interfaces4-exercicio.genruntimeconfig.cache
