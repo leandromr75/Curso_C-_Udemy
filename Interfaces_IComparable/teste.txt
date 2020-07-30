@@ -1,0 +1,6 @@
+Leandro,2300.00
+Pedro,2200.00
+Leonardo,1200.00
+Valquiria,5000.00
+Lucas,10000.00
+Francisco,7000.00
