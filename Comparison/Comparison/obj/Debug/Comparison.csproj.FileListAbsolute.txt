@@ -1,0 +1,6 @@
+C:\Users\TI\Desktop\Comparison\Comparison\bin\Debug\Comparison.exe.config
+C:\Users\TI\Desktop\Comparison\Comparison\bin\Debug\Comparison.exe
+C:\Users\TI\Desktop\Comparison\Comparison\bin\Debug\Comparison.pdb
+C:\Users\TI\Desktop\Comparison\Comparison\obj\Debug\Comparison.csprojResolveAssemblyReference.cache
+C:\Users\TI\Desktop\Comparison\Comparison\obj\Debug\Comparison.exe
+C:\Users\TI\Desktop\Comparison\Comparison\obj\Debug\Comparison.pdb

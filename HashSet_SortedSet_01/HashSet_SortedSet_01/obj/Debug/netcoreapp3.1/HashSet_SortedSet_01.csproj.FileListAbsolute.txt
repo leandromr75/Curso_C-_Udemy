@@ -1,0 +1,13 @@
+C:\Users\TI\Desktop\Curso__C#\Curso_C-_Udemy\HashSet_SortedSet_01\HashSet_SortedSet_01\bin\Debug\netcoreapp3.1\HashSet_SortedSet_01.exe
+C:\Users\TI\Desktop\Curso__C#\Curso_C-_Udemy\HashSet_SortedSet_01\HashSet_SortedSet_01\bin\Debug\netcoreapp3.1\HashSet_SortedSet_01.deps.json
+C:\Users\TI\Desktop\Curso__C#\Curso_C-_Udemy\HashSet_SortedSet_01\HashSet_SortedSet_01\bin\Debug\netcoreapp3.1\HashSet_SortedSet_01.runtimeconfig.json
+C:\Users\TI\Desktop\Curso__C#\Curso_C-_Udemy\HashSet_SortedSet_01\HashSet_SortedSet_01\bin\Debug\netcoreapp3.1\HashSet_SortedSet_01.runtimeconfig.dev.json
+C:\Users\TI\Desktop\Curso__C#\Curso_C-_Udemy\HashSet_SortedSet_01\HashSet_SortedSet_01\bin\Debug\netcoreapp3.1\HashSet_SortedSet_01.dll
+C:\Users\TI\Desktop\Curso__C#\Curso_C-_Udemy\HashSet_SortedSet_01\HashSet_SortedSet_01\bin\Debug\netcoreapp3.1\HashSet_SortedSet_01.pdb
+C:\Users\TI\Desktop\Curso__C#\Curso_C-_Udemy\HashSet_SortedSet_01\HashSet_SortedSet_01\obj\Debug\netcoreapp3.1\HashSet_SortedSet_01.csprojAssemblyReference.cache
+C:\Users\TI\Desktop\Curso__C#\Curso_C-_Udemy\HashSet_SortedSet_01\HashSet_SortedSet_01\obj\Debug\netcoreapp3.1\HashSet_SortedSet_01.csproj.CoreCompileInputs.cache
+C:\Users\TI\Desktop\Curso__C#\Curso_C-_Udemy\HashSet_SortedSet_01\HashSet_SortedSet_01\obj\Debug\netcoreapp3.1\HashSet_SortedSet_01.AssemblyInfoInputs.cache
+C:\Users\TI\Desktop\Curso__C#\Curso_C-_Udemy\HashSet_SortedSet_01\HashSet_SortedSet_01\obj\Debug\netcoreapp3.1\HashSet_SortedSet_01.AssemblyInfo.cs
+C:\Users\TI\Desktop\Curso__C#\Curso_C-_Udemy\HashSet_SortedSet_01\HashSet_SortedSet_01\obj\Debug\netcoreapp3.1\HashSet_SortedSet_01.dll
+C:\Users\TI\Desktop\Curso__C#\Curso_C-_Udemy\HashSet_SortedSet_01\HashSet_SortedSet_01\obj\Debug\netcoreapp3.1\HashSet_SortedSet_01.pdb
+C:\Users\TI\Desktop\Curso__C#\Curso_C-_Udemy\HashSet_SortedSet_01\HashSet_SortedSet_01\obj\Debug\netcoreapp3.1\HashSet_SortedSet_01.genruntimeconfig.cache
