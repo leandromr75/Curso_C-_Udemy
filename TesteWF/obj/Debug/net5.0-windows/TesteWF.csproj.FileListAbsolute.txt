@@ -1,0 +1,16 @@
+C:\Users\TI\Documents\TesteWF\bin\Debug\net5.0-windows\TesteWF.exe
+C:\Users\TI\Documents\TesteWF\bin\Debug\net5.0-windows\TesteWF.deps.json
+C:\Users\TI\Documents\TesteWF\bin\Debug\net5.0-windows\TesteWF.runtimeconfig.json
+C:\Users\TI\Documents\TesteWF\bin\Debug\net5.0-windows\TesteWF.runtimeconfig.dev.json
+C:\Users\TI\Documents\TesteWF\bin\Debug\net5.0-windows\TesteWF.dll
+C:\Users\TI\Documents\TesteWF\bin\Debug\net5.0-windows\ref\TesteWF.dll
+C:\Users\TI\Documents\TesteWF\bin\Debug\net5.0-windows\TesteWF.pdb
+C:\Users\TI\Documents\TesteWF\obj\Debug\net5.0-windows\TesteWF.csprojAssemblyReference.cache
+C:\Users\TI\Documents\TesteWF\obj\Debug\net5.0-windows\TesteWF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TI\Documents\TesteWF\obj\Debug\net5.0-windows\TesteWF.AssemblyInfoInputs.cache
+C:\Users\TI\Documents\TesteWF\obj\Debug\net5.0-windows\TesteWF.AssemblyInfo.cs
+C:\Users\TI\Documents\TesteWF\obj\Debug\net5.0-windows\TesteWF.csproj.CoreCompileInputs.cache
+C:\Users\TI\Documents\TesteWF\obj\Debug\net5.0-windows\TesteWF.dll
+C:\Users\TI\Documents\TesteWF\obj\Debug\net5.0-windows\ref\TesteWF.dll
+C:\Users\TI\Documents\TesteWF\obj\Debug\net5.0-windows\TesteWF.pdb
+C:\Users\TI\Documents\TesteWF\obj\Debug\net5.0-windows\TesteWF.genruntimeconfig.cache
